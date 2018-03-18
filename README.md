@@ -1,2 +1,2 @@
 # bob
-this interactive script allows the user to send customizable http requests
+bob.py builds customizable http requests and sends the user built request to the host. the user is given the option of saving a request build for later use. the script may be useful when to webapp testers for fuzzing. 
